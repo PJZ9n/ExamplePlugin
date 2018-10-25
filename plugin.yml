@@ -1,0 +1,8 @@
+name: ExamplePlugin
+main: ExamplePlugin\main
+version: 1.0.0
+api: [3.3.0]
+load: POSTWORLD
+author: NAME
+desctiption: PMMP Example Plugin
+website: http://www.github.com/
